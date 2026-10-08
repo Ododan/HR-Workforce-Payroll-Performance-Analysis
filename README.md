@@ -59,6 +59,8 @@ ORDER BY salary_difference DESC;
 The dynamic Power BI dashboard provides executive visibility into overall headcount, active versus inactive payroll distribution, departmental retention rates, top salary tiers, and employee distribution across salary ranges.
 
 ### HR Workforce & Payroll Dashbaord Snapshot:
+<img width="1920" height="1080" alt="Screenshot 2026-10-08 105752" src="https://github.com/user-attachments/assets/50a55c85-d026-45ac-8007-7f6192ee42c6" />
+
 
 
 ### Key Metrics & Visual Features
